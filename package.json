@@ -1,0 +1,22 @@
+{
+  "name": "virtual-pet",
+  "version": "1.0.0",
+  "description": "Pet",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Cambisin/virtual-pet.git"
+  },
+  "author": "Cam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cambisin/virtual-pet/issues"
+  },
+  "homepage": "https://github.com/Cambisin/virtual-pet#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
